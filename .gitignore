@@ -2,3 +2,15 @@ icon.png
 logs/debug.log
 logs/latest.log
 mods
+options.txt
+crafttweaker.log
+.ReAuth.cfg
+texturepacks/
+server-resource-packs
+screenshots
+saves
+resourcepacks
+logs
+coremods
+.mixin.out/audit/mixin_implementation_report.csv
+.mixin.out/audit/mixin_implementation_report.txt
