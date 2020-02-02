@@ -14,3 +14,8 @@ logs
 coremods
 .mixin.out/audit/mixin_implementation_report.csv
 .mixin.out/audit/mixin_implementation_report.txt
+usercache.json
+usernamecache.json
+backups
+.vscode
+astralsorcery/gatewayFilter/worldFilter.dat
