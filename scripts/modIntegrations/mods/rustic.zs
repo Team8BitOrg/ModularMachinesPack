@@ -7,7 +7,7 @@
 */
 
 function init() {
-    
+    // Sapling to water
     rustic.addCrushingTub(<liquid:water> * 100, null, <minecraft:sapling>);
     rustic.addCrushingTub(<liquid:water> * 100, null, <minecraft:sapling:1>);
     rustic.addCrushingTub(<liquid:water> * 100, null, <minecraft:sapling:2>);
@@ -22,4 +22,12 @@ function init() {
     rustic.addCrushingTub(<liquid:water> * 100, null, <sky_orchards:sapling_stone>);
     rustic.addCrushingTub(<liquid:water> * 100, null, <sky_orchards:sapling_clay>);
     rustic.addCrushingTub(<liquid:water> * 100, null, <sky_orchards:sapling_dye>);
+
+    // Acorns to sap
+    rustic.addCrushingTub(<liquid:sap> * 100, null, <sky_orchards:acorn_wood>);
+    rustic.addCrushingTub(<liquid:sap> * 100, null, <sky_orchards:acorn_dirt>);
+    rustic.addCrushingTub(<liquid:sap> * 100, null, <sky_orchards:acorn_stone>);
+    rustic.addCrushingTub(<liquid:sap> * 100, null, <sky_orchards:acorn_clay>);
+    rustic.addCrushingTub(<liquid:sap> * 100, null, <sky_orchards:acorn_dye>);
+
 }

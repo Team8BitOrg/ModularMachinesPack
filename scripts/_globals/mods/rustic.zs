@@ -21,7 +21,7 @@ zenClass Rustic {
 
     //Add a Crushing Tub recipe.
     function addCrushingTub(output as ILiquidStack, input as IItemStack) {
-        addCrushingTub(output, null, input);
+        CrushingTub.addRecipe(output, null, input);
     }
 
     function addCrushingTub(output as ILiquidStack, byproduct as IItemStack, input as IItemStack) {
