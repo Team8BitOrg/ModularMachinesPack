@@ -10,6 +10,7 @@
 
 //Mods
 //global modname as scripts._globals.mods.modname.ModName = scripts._globals.mods.modname.ModName();
+global astralsorcery as scripts._globals.mods.astralsorcery.AstralSorcery = scripts._globals.mods.astralsorcery.AstralSorcery();
 
 //Utils
 global recipeHelper as scripts._globals.utils.recipeHelper.RecipeHelper = scripts._globals.utils.recipeHelper.RecipeHelper();
