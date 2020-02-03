@@ -1,7 +1,6 @@
 icon.png
 logs/debug.log
 logs/latest.log
-mods
 options.txt
 crafttweaker.log
 .ReAuth.cfg
@@ -19,3 +18,4 @@ usernamecache.json
 backups
 .vscode
 astralsorcery/gatewayFilter/worldFilter.dat
+
