@@ -28,11 +28,13 @@ function initRecipes() {
 
 	//Mods
 	//scripts.recipes.mods.scriptname.init();
+	scripts.recipes.mods.rustic.init();
 }
 
 function initIntegration() {
 	//scripts.modIntegrations.mods.scriptname.init();
 	scripts.modIntegrations.mods.astralsorcery.init();
+	scripts.modIntegrations.mods.rustic.init();
 }
 
 function initItemModifiers() {
