@@ -38,6 +38,7 @@ function initIntegration() {
 	scripts.modIntegrations.mods.astralsorcery.init();
 	scripts.modIntegrations.mods.rustic.init();
 	scripts.modIntegrations.mods.inspirations.init();
+	scripts.modIntegrations.mods.naturesaura.init();
 }
 
 function initItemModifiers() {
