@@ -8,5 +8,7 @@
 
 function init() {
     //Dirt Sapling
-    naturesaura.addrotf("dirt_sapling", <sky_orchards:sapling_wood>, <sky_orchards:sapling_dirt>, 2400, [<sky_orchards:amber_wood>, <sky_orchards:amber_wood>, <sky_orchards:amber_wood>, <sky_orchards:leaves_wood>, <sky_orchards:leaves_wood>, <sky_orchards:leaves_wood>]);
+    naturesaura.addrotf("dirt_sapling", <sky_orchards:sapling_wood>, <sky_orchards:sapling_dirt>, 1500, [<contenttweaker:wood_pulp>, <contenttweaker:wood_pulp>, <contenttweaker:wood_pulp>, <contenttweaker:wood_pulp>, <contenttweaker:wood_pulp>, <contenttweaker:wood_pulp>]);
+    //Stone sapling
+    naturesaura.addrotf("stone_sapling", <sky_orchards:sapling_dirt>, <sky_orchards:sapling_stone>, 1500, [<minecraft:stone>, <minecraft:stone>, <minecraft:stone>, <minecraft:stone>, <minecraft:stone>, <minecraft:stone>]);
 }
