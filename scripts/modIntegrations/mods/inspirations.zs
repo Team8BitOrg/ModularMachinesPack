@@ -8,10 +8,5 @@
 
 function init() {
 
-inspirations.addCauldron(<sky_orchards:sapling_dirt>, <sky_orchards:sapling_wood>, <fluid:sap>);
-inspirations.addCauldron(<sky_orchards:sapling_stone>, <sky_orchards:sapling_dirt>, <fluid:sap>);
-inspirations.addCauldron(<sky_orchards:sapling_clay>, <sky_orchards:sapling_stone>, <fluid:sap>);
-inspirations.addCauldron(<sky_orchards:sapling_dye>, <sky_orchards:sapling_clay>, <fluid:sap>);
-inspirations.addCauldron(<sky_orchards:sapling_wood>, <sky_orchards:sapling_dye>, <fluid:sap>);
 
 }
