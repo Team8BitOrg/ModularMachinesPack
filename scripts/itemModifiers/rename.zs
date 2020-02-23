@@ -9,7 +9,7 @@
 import crafttweaker.item.IItemStack;
 
 static itemRenameArray as string[IItemStack] = {
-
+    <rustic:crushing_tub>: "Jumping Tub"
 };
 
 function init() {

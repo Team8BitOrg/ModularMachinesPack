@@ -28,19 +28,11 @@ function initRecipes() {
 
 	//Mods
 	//scripts.recipes.mods.scriptname.init();
-	scripts.recipes.mods.alchemistry.init();
-	scripts.recipes.mods.integrateddynamics.init();
-	scripts.recipes.mods.rustic.init();
 	scripts.recipes.mods.skyorchards.init();
 }
 
 function initIntegration() {
 	//scripts.modIntegrations.mods.scriptname.init();
-	scripts.modIntegrations.mods.astralsorcery.init();
-	scripts.modIntegrations.mods.rustic.init();
-	scripts.modIntegrations.mods.inspirations.init();
-	scripts.modIntegrations.mods.integrateddynamics.init();
-	scripts.modIntegrations.mods.naturesaura.init();
 }
 
 function initItemModifiers() {
