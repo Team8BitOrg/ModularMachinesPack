@@ -4,14 +4,18 @@
 
 world-78688046 {
     # Show the list of bookmarks next to open GUIs.
-    B:bookmarkOverlayEnabled=true
+    B:bookmarkOverlayEnabled=false
 
     # Give items instead of showing the recipe.
-    B:cheatItemsEnabled=false
+    B:cheatItemsEnabled=true
 
     # Hide and unhide ingredients by clicking them in the list.
     B:editEnabled=false
-    S:filterText=dirt
+<<<<<<< HEAD
+    S:filterText=sapling
+=======
+    S:filterText=bone
+>>>>>>> bec56170a887a3b42dd57739d05292f529600c0e
 
     # Show the list of ingredients next to open GUIs.
     B:overlayEnabled=true
@@ -20,6 +24,15 @@ world-78688046 {
 
 world1544803905 {
     S:filterText=
+}
+
+
+world1855637915 {
+    B:bookmarkOverlayEnabled=true
+    B:cheatItemsEnabled=false
+    B:editEnabled=false
+    S:filterText=
+    B:overlayEnabled=true
 }
 
 

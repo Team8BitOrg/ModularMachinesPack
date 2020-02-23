@@ -31,7 +31,7 @@ function initRecipes() {
 	scripts.recipes.mods.alchemistry.init();
 	scripts.recipes.mods.integrateddynamics.init();
 	scripts.recipes.mods.rustic.init();
-
+	scripts.recipes.mods.skyorchards.init();
 }
 
 function initIntegration() {
